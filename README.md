@@ -1,8 +1,8 @@
 # setup
 
-### Browsers
+## Browsers
 
-### Produtividade
+## Produtividade
 
 ## Editores de texto
 
